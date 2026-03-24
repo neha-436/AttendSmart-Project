@@ -6,7 +6,6 @@ AttendSmart is an attendance management system built using FastAPI and modern we
 - FastAPI
 - PostgreSQL
 - SQLAlchemy
-- React (frontend)
 
 ## Features
 - Attendance tracking
